@@ -1,0 +1,19 @@
+{
+  "name": "automatizacion-con-cypress-practica-",
+  "version": "1.0.0",
+  "description": "Autotamización practica para aprender Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DunKeL626/Automatizacion-con-Cypress-Practica-.git"
+  },
+  "author": "Juan Carlos Herazo Plazas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DunKeL626/Automatizacion-con-Cypress-Practica-/issues"
+  },
+  "homepage": "https://github.com/DunKeL626/Automatizacion-con-Cypress-Practica-#readme"
+}
